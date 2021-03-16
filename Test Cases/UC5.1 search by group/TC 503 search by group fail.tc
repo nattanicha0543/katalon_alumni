@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 503 search by group fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e43de820-6542-4f20-98c5-217466245ca8</testCaseGuid>
+</TestCaseEntity>
